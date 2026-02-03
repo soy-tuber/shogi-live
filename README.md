@@ -25,8 +25,8 @@
 **手番**: 後手 (☖)
 
 ## 🎙️ AI実況解説
-解説生成エラー: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+Geminiによる解説は無効化されています。
 
 ---
 *Powered by ふかうら王 & Gemini Pro*
-Last Updated: 2026-02-03 10:59:08
+Last Updated: 2026-02-03 11:00:23
