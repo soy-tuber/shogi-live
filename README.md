@@ -2,7 +2,7 @@
 
 ## 対局中 (1手目)
 
-**vs AobaZero_w4628_n_p800** | tongmiaoqwen は 後手 ☖
+**vs newHimawariNLab** | tongmiaoqwen は 後手 ☖
 
 ```
   ９ ８ ７ ６ ５ ４ ３ ２ １
@@ -30,13 +30,13 @@
 | 直前の手 | --- |
 
 ## AI解説 (Gemini)
-> さあ、いよいよ対局開始です。先手の初手、居飛車か振り飛車か、戦型の選択に注目しましょう。
+> いよいよ対局開始です。先手が初手に何を選ぶかで戦型の方向性が決まります。注目の一手です。
 
 ## 通算成績
 **0W - 0L - 0D** (0 games)
 
 ---
 *Model: soy20b2 (Fuka20b + nyugyoku FT) | RTX 5090 + TensorRT | T16 B256*
-*Updated: 2026-02-08 18:30:14*
+*Updated: 2026-02-08 19:00:12*
 
 [Floodgate観戦](http://wdoor.c.u-tokyo.ac.jp/shogi/floodgate/)
