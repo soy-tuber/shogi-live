@@ -1,6 +1,6 @@
 # Shogi Live - tongmiaoqwen
 
-## 対局中 (100手目)
+## 対局中 (110手目)
 
 **vs HimawariNLab_0209book** | tongmiaoqwen は 先手 ☗
 
@@ -14,25 +14,25 @@
 | ・ ・ ・v歩 ・ 銀 歩 ・ ・| 5
 | ・v金 ・v歩 ・ 歩 金 ・ ・| 6
 | ・v玉v桂v銀 ・v歩 ・ 金 ・| 7
-|v飛 ・ ・v桂v歩 ・ 歩 玉 桂| 8
+|v飛 ・ ・v桂 ・ 歩 ・ 玉 桂| 8
 |v香 ・ ・v歩 ・ 歩 ・ ・ 香| 9
 +---------------------------+
 ```
 
 | 項目 | 値 |
 |---|---|
-| 手数 | 100 |
+| 手数 | 110 |
 | 手番 | 後手 |
 | 評価値 | +0cp |
-| 探索深さ | 46手先 |
-| 探索速度 | 9,859,186 nps |
-| 参考(F) | 3b2b(+12) [一致] |
+| 探索深さ | 49手先 |
+| 探索速度 | 9,264,810 nps |
+| 参考(F) | 3b2b(+9) [一致] |
 
 ## 通算成績
 **0W - 0L - 0D** (0 games)
 
 ---
 *Engine: YaneuraOu V9.2 + Suisho11beta (24T) + PetaBook | Ref: Fuka25b*
-*Updated: 2026-02-12 01:39:58*
+*Updated: 2026-02-12 01:44:01*
 
 [Floodgate観戦](http://wdoor.c.u-tokyo.ac.jp/shogi/floodgate/)
