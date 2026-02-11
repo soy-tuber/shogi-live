@@ -1,6 +1,6 @@
 # Shogi Live - tongmiaoqwen (合議v2)
 
-## 対局中 (140手目)
+## 対局終了: WIN vs test_i5-4300U
 
 **vs test_i5-4300U** | tongmiaoqwen は 先手 ☗
 
@@ -23,19 +23,19 @@
 |---|---|
 | 手数 | 140 |
 | 手番 | 後手 |
-| 評価値 | --- |
-| 探索深さ | --- |
-| 探索速度 | --- |
-| 探索局面数 | --- |
+| 評価値 | +2950cp |
+| 探索深さ | 17手先 |
+| 探索速度 | 10,015,564 nps |
+| 探索局面数 | 20,011,098 |
 | 直前の手 | R*5b |
 | 合議 | endgame Y:R*5b(+2857) |
 
 ## 通算成績
-**1W - 0L - 0D** (1 games)
+**2W - 0L - 0D** (1 games)
 
 ---
 *Gougi v2: YaneuraOu V9.2+Suisho11beta (CPU) + Ryfamate (GPU) + PetaBook 707万*
 *Core Ultra9 285K + RTX 5090 | Python時間管理*
-*Updated: 2026-02-11 11:49:27*
+*Updated: 2026-02-11 11:49:29*
 
 [Floodgate観戦](http://wdoor.c.u-tokyo.ac.jp/shogi/floodgate/)
