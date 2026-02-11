@@ -1,17 +1,17 @@
 # Shogi Live - tongmiaoqwen (合議v2)
 
-## 対局中 (69手目)
+## 対局中 (79手目)
 
 **vs FURIFURIV23_nobook_4T** | tongmiaoqwen は 後手 ☖
 
 ```
   ９ ８ ７ ６ ５ ４ ３ ２ １
 +---------------------------+
-|v香v飛 ・v桂 ・ ・ ・ ・v香| 1
+|v香v飛 ・v桂 ・ ・v香 ・v香| 1
 | ・ ・v玉v金 ・ ・ ・ ・ ・| 2
-| ・v銀v桂v歩 ・ ・ 龍 ・ ・| 3
-|v歩v歩v歩v馬v歩 ・v歩v歩v歩| 4
-| ・ ・ ・ 桂 ・v歩 ・ ・ ・| 5
+| ・v銀 ・v歩 ・ 龍 ・ ・ ・| 3
+|v歩v歩v歩v馬v歩 ・ ・v歩v歩| 4
+| ・ ・ ・ 桂 ・v歩v歩 ・ ・| 5
 | 歩 歩 歩 歩 歩 ・ 歩 歩 ・| 6
 | ・ 銀 桂 ・ ・ 歩 ・ ・ 歩| 7
 | ・ 玉 金 金 ・ 銀 ・ ・ ・| 8
@@ -21,14 +21,14 @@
 
 | 項目 | 値 |
 |---|---|
-| 手数 | 69 |
+| 手数 | 79 |
 | 手番 | 先手 |
 | 評価値 | --- |
 | 探索深さ | --- |
 | 探索速度 | --- |
 | 探索局面数 | --- |
-| 直前の手 | 6d6e |
-| 合議 | 熟議R1only → Y:6d6e |
+| 直前の手 | 7d7e |
+| 合議 | 熟議R1only → Y:7d7e |
 
 ## 通算成績
 **1W - 1L - 0D** (2 games)
@@ -36,6 +36,6 @@
 ---
 *Gougi v2: YaneuraOu V9.2+Suisho11beta (CPU) + Fuka25b (GPU) + PetaBook 707万*
 *Core Ultra9 285K + RTX 5090 | Python時間管理*
-*Updated: 2026-02-11 19:46:57*
+*Updated: 2026-02-11 19:50:10*
 
 [Floodgate観戦](http://wdoor.c.u-tokyo.ac.jp/shogi/floodgate/)
